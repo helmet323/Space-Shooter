@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 439d708c4e890b042bbe4799f9f780ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defenseBoost: {fileID: 4039218921192079356, guid: 1824fc39052acab4ab5c70ed3353fa0a,
+      type: 3}
+  - speedBoost: {fileID: 6738384030525038664, guid: 7d12b9434b4e30e41a4bac478f5b9d77,
+      type: 3}
+  - attackBoost: {fileID: 7636834318846480421, guid: 2758c8919011dd74b8afa2e2ebf7e681,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
